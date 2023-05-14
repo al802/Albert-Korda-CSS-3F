@@ -1,0 +1,20 @@
+A
+{
+font-size: 18pt;
+text-decoration: none;
+}
+A:link
+{
+color: blue;
+}
+A:visited
+{
+color: green;
+}
+A:hover
+{
+color: red;
+text-decoration: underline;
+}
+/*text-decoration: none;  ustawia tekst tak aby nie był podkreślony, przekreślony itp. */
+/*text-decoration: underline;  ustawia tekst tak aby był podkreślony*/
